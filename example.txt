@@ -1,0 +1,7 @@
+example here
+
+steps: 
+git add example.txt
+(git status)
+git commit -m "adds example.txt"
+git push
