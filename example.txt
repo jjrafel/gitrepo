@@ -5,3 +5,12 @@ git add example.txt
 (git status)
 git commit -m "adds example.txt"
 git push
+
+setting up uninitialized repo from vscode:
+git init
+git add .
+git commit
+git commit -m "initial commit"
+git remote add origin https://github.com/jjrafel/gitrepo.git
+
+if no branches yet: copy and paste whatever code it tells you. ok.
